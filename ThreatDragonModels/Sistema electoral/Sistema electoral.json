@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "Sistema electoral",
+    "owner": "yo",
+    "description": "xxx"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "dfd 1",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "nosotros"
+  }
+}
